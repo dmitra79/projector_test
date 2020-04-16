@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://github.com/dmitra79/projector_test/blob/master/dcc_supernodes_t2g.csv",
+      "metadataPath": "https://github.com/dmitra79/projector_test/blob/master/dcc_supernodes_labels_t2g.txt"
+    }
+  ]
+}
