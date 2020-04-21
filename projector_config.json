@@ -7,7 +7,8 @@
         50
       ],
       "tensorPath": "https://raw.githubusercontent.com/dmitra79/projector_test/master/dcc_supernodes_t2g.csv",
-      "metadataPath": "https://raw.githubusercontent.com/dmitra79/projector_test/master/dcc_supernodes_labels_t2g.txt"
+      "metadataPath": "https://raw.githubusercontent.com/dmitra79/projector_test/master/dcc_supernodes_labels_t2g.txt",
+      "bookmarksPath": "https://raw.githubusercontent.com/dmitra79/projector_test/master/projector_bookmark.txt"
     }
   ]
 }
